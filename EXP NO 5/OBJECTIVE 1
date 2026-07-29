@@ -22,3 +22,10 @@ title('MIMO BER Performance vs SNR')
 xlabel('SNR (dB)')
 ylabel('Bit Error Rate (BER)')
 grid on
+% -------- Graph 2: SNR vs Quality Indicator --------
+subplot(2,1,2)
+plot(SNR_dB,1-BER,'-s','LineWidth',2)
+title('MIMO System Reliability vs SNR')
+xlabel('SNR (dB)')
+ylabel('Reliability (1 - BER)')
+grid on
