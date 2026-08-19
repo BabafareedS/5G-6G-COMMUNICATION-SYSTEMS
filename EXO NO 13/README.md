@@ -2,7 +2,7 @@
 
 <img width="746" height="532" alt="Image" src="https://github.com/user-attachments/assets/85364ed6-9207-461f-8966-c2c76d5e0458" />
 
-# OBJECTIVE 3
+# OBJECTIVE 2
 
 <img width="747" height="528" alt="Image" src="https://github.com/user-attachments/assets/bc2f581b-16d9-49c7-9cae-5e5a94894dcb" />
 
